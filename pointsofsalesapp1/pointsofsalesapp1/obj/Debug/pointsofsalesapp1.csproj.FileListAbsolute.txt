@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\pointsofsalesapp1\pointsofsalesapp1\bin\Debug\pointsofsalesapp1.exe.config
+C:\Users\DELL\source\repos\pointsofsalesapp1\pointsofsalesapp1\bin\Debug\pointsofsalesapp1.exe
+C:\Users\DELL\source\repos\pointsofsalesapp1\pointsofsalesapp1\bin\Debug\pointsofsalesapp1.pdb
+C:\Users\DELL\source\repos\pointsofsalesapp1\pointsofsalesapp1\obj\Debug\pointsofsalesapp1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\pointsofsalesapp1\pointsofsalesapp1\obj\Debug\pointsofsalesapp1.exe
+C:\Users\DELL\source\repos\pointsofsalesapp1\pointsofsalesapp1\obj\Debug\pointsofsalesapp1.pdb
+C:\Users\DELL\source\repos\pointsofsalesapp1\pointsofsalesapp1\obj\Debug\pointsofsalesapp1.csproj.AssemblyReference.cache
